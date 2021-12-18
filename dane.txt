@@ -1,0 +1,21 @@
+}
+
+;0 nruter    
+;"b" << tuoc
+esle
+;"b=a" << tuoc        
+)b==a( fi esle
+;"a" << tuoc
+)b>a( fi
+
+;b >> nic
+;"=b" << tuoc
+;a >> nic
+;"=a" << tuoc
+;b ,a tni
+{
+)(niam tni
+
+;dts ecapseman gnisu
+
+>maertsoi< edulcni#
